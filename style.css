@@ -1,3 +1,37 @@
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
-    font-size: 30px;
+    font-size: 16px;
+    background-color: #fff;
+    color: blue;
+}
+
+h1 {
+    outline: 1px solid green;
+    /* margin: 50px; */
+
+    /* margin: 10px 50px; */
+
+    margin: 60px 10px 30px 40px;
+
+    /* margin-top: 60px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 40px; */
+}
+
+.header {
+  color: red;
+}
+
+.bold {
+    font-weight:900;
+}
+
+#header-title {
+    text-decoration: underline;
 }
