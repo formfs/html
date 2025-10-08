@@ -5,9 +5,10 @@
 }
 
 body {
-    font-size: 16px;
+    /* font-size: 16px; */
+    font-size: 2rem;
     background-color: #fff;
-    color: blue;
+    color: #333;
 }
 
 h1 {
@@ -24,14 +25,29 @@ h1 {
     margin-left: 40px; */
 }
 
-.header {
-  color: red;
+.bold {
+    /* font-weight:900; */
 }
 
-.bold {
-    font-weight:900;
+.display {
+    outline: 1px solid red;
+    font-weight: 900;
+    display: block;
+    margin: 0 50px;
+    padding: 20px;
+}
+
+.header {
+    font-size: 20px;
 }
 
 #header-title {
     text-decoration: underline;
+    font-size: 0.5em;
+}
+
+.font-color {
+    color: #125492;
+    color: rgb(100, 0, 127);
+    color: hsl(15, 82%, 56%);
 }
