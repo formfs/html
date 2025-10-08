@@ -7,3 +7,5 @@
 [The new reset](https://elad2412.github.io/the-new-css-reset/)
 
 [w3school colors](https://www.w3schools.com/css/css_colors.asp)
+
+[Couleurs CSS (MDN](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_colors)
